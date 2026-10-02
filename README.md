@@ -234,18 +234,6 @@ The app shows:
 
 This makes it useful for job seekers and recruiters to quickly evaluate alignment between resume and role.
 
-## Screenshots
-
-Add screenshots in a `/screenshots` folder and reference them here:
-
-```md
-![GapFit AI dashboard](./screenshots/dashboard.png)
-```
-
-## Author
-
-- GitHub: [@sohannandi](https://github.com/sohannandi)
-- Repository: [Codomax-Module-6](https://github.com/sohannandi/Codomax-Module-6)
 
 ## Roadmap
 
